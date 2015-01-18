@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/9vVHCPY.png) Formage Admin
 =============
-
+[![Build Status](https://travis-ci.org/Freakachoo/formage-admin.svg)](https://travis-ci.org/Freakachoo/formage-admin)
 [Bootstraped](http://twitter.github.com/bootstrap/) admin forms for [Mongoose](http://mongoosejs.com/),
 originally forked from [mongoose-admin](https://github.com/marccampbell/mongoose-admin).
 
